@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-2-9.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>The stand-in abbreviations for the real doctors names are not tagged.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-5-7.xhtml">
+		<ignore>
+			<code>t-021</code>
+			<reason>The ‘in’ following the pounds is not an abbreviation.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
