@@ -3,7 +3,7 @@
 	<file path="chapter-2-9.xhtml">
 		<ignore>
 			<code>t-029</code>
-			<reason>The stand-in abbreviations for the real doctors names are not tagged.</reason>
+			<reason>The Y and Z are stand-ins for names and thus should not be tagged.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-5-7.xhtml">
