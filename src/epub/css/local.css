@@ -8,42 +8,42 @@ blockquote[xml|lang]{
 
 blockquote[xml|lang] em,
 p [xml|lang] em{
-    font-style: normal;
+	font-style: normal;
 }
 
 [epub|type~="bridgehead"] strong{
-    font-style: normal;
+	font-style: normal;
 }
 
 /* location-specific */
 #dedication > blockquote{
-    margin-left: 0;
-    margin-right: 0;
+	margin-left: 0;
+	margin-right: 0;
 }
 
 #dedication > blockquote > header{
-    font-style: italic;
-    text-align: center;
+	font-style: italic;
+	text-align: center;
 }
 
 #dedication > blockquote > header p{
-    margin-bottom: .5em;
+	margin-bottom: .5em;
 }
 
 #chapter-2-9 blockquote{
-    break-before: page;
-    break-inside: avoid;
-    text-align: center;
-    font-variant: small-caps;
+	break-before: page;
+	break-inside: avoid;
+	text-align: center;
+	font-variant: small-caps;
 }
 
 #chapter-2-9 blockquote p{
-    margin-top: .5em;
-    text-indent: 0;
+	margin-top: .5em;
+	text-indent: 0;
 }
 
 #chapter-2-9 blockquote b{
-    text-transform: uppercase;
+	text-transform: uppercase;
 }
 
 /* bridgeheads */
