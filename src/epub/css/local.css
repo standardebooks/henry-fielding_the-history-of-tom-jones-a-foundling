@@ -58,6 +58,11 @@ q::after{
 	text-transform: uppercase;
 }
 
+#chapter-13-6 blockquote > p{
+	text-indent: 0;
+}
+/* end of location-specific */
+
 /* bridgeheads */
 [epub|type~="bridgehead"]{
 	display: inline-block;
