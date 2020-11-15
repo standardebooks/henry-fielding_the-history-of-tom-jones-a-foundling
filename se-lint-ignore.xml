@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="dedication.xhtml">
+		<ignore>
+			<code>s-046</code>
+			<reason>Per discussion with the editor-in-chief, the use of span/br here is correct.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-2-9.xhtml">
 		<ignore>
 			<code>t-029</code>
