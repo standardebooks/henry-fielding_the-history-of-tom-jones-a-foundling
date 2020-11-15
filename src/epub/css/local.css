@@ -16,15 +16,8 @@ p [xml|lang] em{
 }
 
 q{
-    font-style: italic;
-}
-
-q::before{
-    content: "";
-}
-
-q::after{
-    content: "";
+	font-style: italic;
+	quotes: none;
 }
 
 /* location-specific */
@@ -58,6 +51,10 @@ q::after{
 	text-transform: uppercase;
 }
 
+#chapter-11-5 [epub|type~="z3998:recipient"]{
+	font-style: italic;
+}
+
 #chapter-13-6 blockquote > p{
 	text-indent: 0;
 }
@@ -70,10 +67,6 @@ q::after{
 	max-width: 60%;
 	text-align: justify;
 	text-indent: 0;
-}
-
-[epub|type~="bridgehead"] i{
-	font-style: normal;
 }
 /* end of bridgeheads */
 
