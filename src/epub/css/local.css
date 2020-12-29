@@ -71,6 +71,7 @@ q{
 /* end of bridgeheads */
 
 /* letters */
+p[epub|type~="z3998:salutation"] + p,
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
