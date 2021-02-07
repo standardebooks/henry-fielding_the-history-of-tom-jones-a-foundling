@@ -53,6 +53,9 @@
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
+		<meta id="collection-2" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">22</meta>
 		<dc:description id="description">The adventures of an illegitimate young man and his pursuit of romance.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A baby is deposited in the bed of Squire Allworthy, a wealthy widower in Georgian England. The baby is given the name of Tom Jones and given to Allworthy’s live-in sister to raise. She soon marries and has her own son, and the two boys are raised together, with the usual household rivalries and jealousies. As Tom reaches his late teenage years, he discovers the several young ladies that surround, but especially the one that lives next door. Circumstances eventually lead to Tom being thrown out of Allworthy’s house, and the bulk of the novel is about the resulting adventures and pursuit of his beloved Sophia.&lt;/p&gt;
