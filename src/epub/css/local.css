@@ -38,8 +38,8 @@ q{
 #chapter-2-9 blockquote{
 	break-before: page;
 	break-inside: avoid;
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 #chapter-2-9 blockquote p{
@@ -83,8 +83,8 @@ p[epub|type~="z3998:salutation"] + p,
 
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
-	text-indent: 0;
 	text-align: initial;
+	text-indent: 0;
 }
 
 footer{
