@@ -73,7 +73,7 @@
 		<!-- Volume 2, books 10 thru 18 -->
 		<dc:source>https://archive.org/details/historyoftomjon02fieluoft</dc:source>
 		<meta property="se:production-notes">Transcription punctuation and spelling differed quite a bit from the scans, so extensive work done to get the production in line with the scans.</meta>
-		<meta property="se:word-count">348119</meta>
+		<meta property="se:word-count">348112</meta>
 		<meta property="se:reading-ease.flesch">60.89</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_History_of_Tom_Jones,_a_Foundling</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-fielding_the-history-of-tom-jones-a-foundling</meta>
