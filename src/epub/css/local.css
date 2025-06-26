@@ -21,18 +21,9 @@ q{
 }
 
 /* location-specific */
-#dedication > blockquote{
-	margin-left: 0;
-	margin-right: 0;
-}
-
-#dedication > blockquote > header{
+#dedication > header p{
 	font-style: italic;
 	text-align: center;
-}
-
-#dedication > blockquote > header p{
-	text-indent: 0;
 }
 
 #chapter-2-9 blockquote{
@@ -71,11 +62,12 @@ q{
 /* end of bridgeheads */
 
 /* letters */
-p[epub|type~="z3998:salutation"] + p,
+#dedication > p:first-of-type + p,
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
 
+#dedication > p:first-of-type,
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
