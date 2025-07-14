@@ -12,4 +12,16 @@
 			<reason>The Y and Z are stand-ins for names and thus should not be tagged.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-5-2.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is dialect and not a typo.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-15-10.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is dialect and not a typo.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
