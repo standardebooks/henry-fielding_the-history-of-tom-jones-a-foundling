@@ -2,21 +2,25 @@
 <se-lint-ignore>
 	<file path="chapter-2-9.xhtml">
 		<ignore code="t-029">
+			<line>22</line>
 			<reason>The Y and Z are stand-ins for names and thus should not be tagged.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-5-2.xhtml">
 		<ignore code="y-035">
+			<line>22</line>
 			<reason>Matched text is dialect and not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-15-10.xhtml">
 		<ignore code="y-035">
+			<line>38</line>
 			<reason>Matched text is dialect and not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="dedication.xhtml">
 		<ignore code="s-046">
+			<line>37</line>
 			<reason>Per discussion with the editor-in-chief, the use of span/br here is correct.</reason>
 		</ignore>
 	</file>
