@@ -11,7 +11,7 @@ p [xml|lang] em{
 	font-style: normal;
 }
 
-[epub|type~="bridgehead"] strong{
+[epub|type~="se:bridgehead"] strong{
 	font-style: normal;
 }
 
@@ -52,7 +52,7 @@ q{
 /* end of location-specific */
 
 /* bridgeheads */
-[epub|type~="bridgehead"]{
+[epub|type~="se:bridgehead"]{
 	display: inline-block;
 	font-style: italic;
 	max-width: 60%;
